@@ -8,8 +8,7 @@ The robot processes LiDAR data in real time and adjusts its movement to safely n
 
 ## Project Demo
 
-![Gazebo Simulation](images/gazebo_simulation.png)
-
+https://github.com/YOUR_USERNAME/ros2-autonomous-obstacle-avoidance/blob/main/videos/demo.mp4
 ---
 
 ## Key Features
